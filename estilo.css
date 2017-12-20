@@ -1,0 +1,8 @@
+div { font-family: sans-serif; text-decoration: line-through; background-color: antiquewhite }
+p { color: blue; border-bottom-color: black; }
+h1 { border: auto ;background-color: aquamarine; }
+h2 { font-family: fantasy; color: aqua; }
+.desordenadas { font-family: monospace; }
+.ordenadas { font-family: cursive; }
+.table { font-family: fantasy }
+span { flex-direction: column; align-items: flex-start }
